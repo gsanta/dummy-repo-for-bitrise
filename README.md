@@ -1,4 +1,4 @@
 # dummy-repo-for-bitrise
 Test bitrise functionality
 
-test 2
+test pr 2
